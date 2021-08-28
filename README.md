@@ -3,6 +3,20 @@
 # Hosted API
 https://paidcodes.albdroid.al/Players/Advanced_Mixed_API_Multi_Sites/
 
+# Support Sites
+
+    vudeo.net
+    videobin.co
+    google drive
+    google photos
+    dropbox.com
+    veoh.com
+    amazon.com (drive)
+    archive.org
+    facebook.com
+    mediafire.com
+    vidoza.net
+
 # NOTE
     SOME OF YOU TRYING TO CONNECT SOME FAKE APPS IN THE API THAT WE HAVE ON OUR SERVERS
     WE TOLERATE BUT WE CAN NOT ALLOW EACH OF YOU TO PLAY WITH US

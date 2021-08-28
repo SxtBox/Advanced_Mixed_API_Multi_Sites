@@ -1,7 +1,17 @@
 # Advanced Mixed API Multi Sites
-Advanced Mixed API Multi Sites
 
+# Hosted API
+https://paidcodes.albdroid.al/Players/Advanced_Mixed_API_Multi_Sites/
 
+# NOTE
+    SOME OF YOU TRYING TO CONNECT SOME FAKE APPS IN THE API THAT WE HAVE ON OUR SERVERS
+    WE TOLERATE BUT WE CAN NOT ALLOW EACH OF YOU TO PLAY WITH US
+	THESE APIS ARE ONLY DEMOS, NONE OF YOU WILL BE ABLE TO GET CONNECTION FROM OUR API, TIME FOR YOU IS OVER
+    YOU MUST PURCHASE IT TO BE ABLE TO USE IT ON YOUR SERVERS.
+
+    DO NOT WASTE YOUR TIME!!!
+
+# Screenshots
 ![Logo](https://raw.githubusercontent.com/SxtBox/Advanced_Mixed_API_Multi_Sites/main/Screenshots/kodi_main.png?raw=true)
 
 ![Logo](https://raw.githubusercontent.com/SxtBox/Advanced_Mixed_API_Multi_Sites/main/Screenshots/kodi_list.png?raw=true)
